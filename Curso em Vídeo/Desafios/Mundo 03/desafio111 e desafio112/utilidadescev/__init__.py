@@ -1,0 +1,2 @@
+def dado():
+    return None
